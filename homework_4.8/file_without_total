@@ -1,0 +1,553 @@
+/home:
+drwxr-xr-x  6 root     root       52 May  4 12:14 .
+dr-xr-xr-x 18 root     root      268 May  4 12:02 ..
+drwxr-xr-x  2 root     root       20 May  4 12:14 d1
+drwxr-xr-x  2 root     root       20 May  4 12:14 d2
+drwxr-xr-x  2 root     root       16 May  4 12:14 d3
+drwx------  8 ec2-user ec2-user 4096 May  4 12:04 ec2-user
+
+/home/d1:
+drwxr-xr-x 2 root root 20 May  4 12:14 .
+drwxr-xr-x 6 root root 52 May  4 12:14 ..
+-rw-r--r-- 1 root root  0 May  4 12:14 f1.txt
+
+/home/d2:
+drwxr-xr-x 2 root root 20 May  4 12:14 .
+drwxr-xr-x 6 root root 52 May  4 12:14 ..
+-rw-r--r-- 1 root root  0 May  4 12:14 f2.txt
+
+/home/d3:
+drwxr-xr-x 2 root root 16 May  4 12:14 .
+drwxr-xr-x 6 root root 52 May  4 12:14 ..
+-rw-r--r-- 1 root root  0 May  4 12:14 f3
+
+/home/ec2-user:
+drwx------ 8 ec2-user ec2-user 4096 May  4 12:04 .
+drwxr-xr-x 6 root     root       52 May  4 12:14 ..
+-rw-r--r-- 1 ec2-user ec2-user   18 Jan 16 00:56 .bash_logout
+-rw-r--r-- 1 ec2-user ec2-user  193 Jan 16 00:56 .bash_profile
+-rw-r--r-- 1 ec2-user ec2-user  231 Jan 16 00:56 .bashrc
+drwx------ 3 ec2-user ec2-user   16 May  4 11:38 .cache
+drwx------ 3 ec2-user ec2-user   16 May  4 11:38 .config
+-rw-r--r-- 1 root     root       57 May  4 12:00 file_with_0-9_in_name
+-rw-r--r-- 1 root     root       13 May  4 12:00 file_with_changed_name_awk
+-rw-r--r-- 1 root     root       13 May  4 12:00 file_with_changed_name_sed
+-rw-r--r-- 1 root     root     1200 May  4 12:00 file_with_date+name
+-rw-r--r-- 1 root     root       14 May  4 12:00 file_with_extension
+-rw-r--r-- 1 root     root     3375 May  4 12:00 file_with_listing
+drwxr-xr-x 4 root     root       38 May  4 12:05 git
+drwxr-xr-x 2 root     root       23 May  4 12:03 homework_4.8
+drwx------ 3 ec2-user ec2-user   19 May  4 11:38 .local
+drwx------ 2 ec2-user ec2-user   29 May  4 11:37 .ssh
+
+/home/ec2-user/.cache:
+drwx------ 3 ec2-user ec2-user   16 May  4 11:38 .
+drwx------ 8 ec2-user ec2-user 4096 May  4 12:04 ..
+drwx------ 2 ec2-user ec2-user   18 May  4 11:38 mc
+
+/home/ec2-user/.cache/mc:
+drwx------ 2 ec2-user ec2-user 18 May  4 11:38 .
+drwx------ 3 ec2-user ec2-user 16 May  4 11:38 ..
+-rw-rw-r-- 1 ec2-user ec2-user 35 May  4 11:38 Tree
+
+/home/ec2-user/.config:
+drwx------ 3 ec2-user ec2-user   16 May  4 11:38 .
+drwx------ 8 ec2-user ec2-user 4096 May  4 12:04 ..
+drwx------ 2 ec2-user ec2-user   17 May  4 11:38 mc
+
+/home/ec2-user/.config/mc:
+drwx------ 2 ec2-user ec2-user   17 May  4 11:38 .
+drwx------ 3 ec2-user ec2-user   16 May  4 11:38 ..
+-rw-rw-r-- 1 ec2-user ec2-user 3025 May  4 11:38 ini
+
+/home/ec2-user/git:
+drwxr-xr-x 4 root     root       38 May  4 12:05 .
+drwx------ 8 ec2-user ec2-user 4096 May  4 12:04 ..
+drwxr-xr-x 6 root     root      274 May  4 12:08 EPAM
+drwxr-xr-x 2 root     root       23 May  4 12:03 homework_4.8
+
+/home/ec2-user/git/EPAM:
+drwxr-xr-x 6 root root     274 May  4 12:08 .
+drwxr-xr-x 4 root root      38 May  4 12:05 ..
+-rw-r--r-- 1 root root      38 May  4 12:05 3.1_feedback.txt
+drwxr-xr-x 8 root root     185 May  4 12:11 .git
+drwxr-xr-x 2 root root      48 May  4 12:05 homework_2.1
+drwxr-xr-x 2 root root      25 May  4 12:05 homework_2.2
+drwxr-xr-x 2 root root      48 May  4 12:14 homework_4.8
+-rw-r--r-- 1 root root 3272374 May  4 12:05 task2_2.pdf
+-rw-r--r-- 1 root root 4619853 May  4 12:05 task 2.3.pdf
+-rw-r--r-- 1 root root 2140231 May  4 12:05 task2_4.pdf
+-rw-r--r-- 1 root root 2064412 May  4 12:05 task3_1.pdf
+-rw-r--r-- 1 root root 1146943 May  4 12:05 task4_2.pdf
+-rw-r--r-- 1 root root  533008 May  4 12:05 task4_3.pdf
+-rw-r--r-- 1 root root  374913 May  4 12:05 task4_4.pdf
+-rw-r--r-- 1 root root 1519222 May  4 12:05 task4_5.pdf
+-rw-r--r-- 1 root root 1156377 May  4 12:05 task4_6.pdf
+
+/home/ec2-user/git/EPAM/.git:
+drwxr-xr-x  8 root root  185 May  4 12:11 .
+drwxr-xr-x  6 root root  274 May  4 12:08 ..
+drwxr-xr-x  2 root root    6 May  4 12:05 branches
+-rw-r--r--  1 root root   13 May  4 12:10 COMMIT_EDITMSG
+-rw-r--r--  1 root root  263 May  4 12:05 config
+-rw-r--r--  1 root root   73 May  4 12:05 description
+-rw-r--r--  1 root root   23 May  4 12:05 HEAD
+drwxr-xr-x  2 root root  301 May  4 12:05 hooks
+-rw-r--r--  1 root root 1265 May  4 12:09 index
+drwxr-xr-x  2 root root   21 May  4 12:05 info
+drwxr-xr-x  3 root root   30 May  4 12:05 logs
+drwxr-xr-x 55 root root 4096 May  4 12:10 objects
+-rw-r--r--  1 root root  114 May  4 12:05 packed-refs
+drwxr-xr-x  5 root root   46 May  4 12:05 refs
+
+/home/ec2-user/git/EPAM/.git/branches:
+drwxr-xr-x 2 root root   6 May  4 12:05 .
+drwxr-xr-x 8 root root 185 May  4 12:11 ..
+
+/home/ec2-user/git/EPAM/.git/hooks:
+drwxr-xr-x 2 root root  301 May  4 12:05 .
+drwxr-xr-x 8 root root  185 May  4 12:11 ..
+-rwxr-xr-x 1 root root  478 May  4 12:05 applypatch-msg.sample
+-rwxr-xr-x 1 root root  896 May  4 12:05 commit-msg.sample
+-rwxr-xr-x 1 root root 3327 May  4 12:05 fsmonitor-watchman.sample
+-rwxr-xr-x 1 root root  189 May  4 12:05 post-update.sample
+-rwxr-xr-x 1 root root  424 May  4 12:05 pre-applypatch.sample
+-rwxr-xr-x 1 root root 1638 May  4 12:05 pre-commit.sample
+-rwxr-xr-x 1 root root 1492 May  4 12:05 prepare-commit-msg.sample
+-rwxr-xr-x 1 root root 1348 May  4 12:05 pre-push.sample
+-rwxr-xr-x 1 root root 4898 May  4 12:05 pre-rebase.sample
+-rwxr-xr-x 1 root root  544 May  4 12:05 pre-receive.sample
+-rwxr-xr-x 1 root root 3610 May  4 12:05 update.sample
+
+/home/ec2-user/git/EPAM/.git/info:
+drwxr-xr-x 2 root root  21 May  4 12:05 .
+drwxr-xr-x 8 root root 185 May  4 12:11 ..
+-rw-r--r-- 1 root root 240 May  4 12:05 exclude
+
+/home/ec2-user/git/EPAM/.git/logs:
+drwxr-xr-x 3 root root  30 May  4 12:05 .
+drwxr-xr-x 8 root root 185 May  4 12:11 ..
+-rw-r--r-- 1 root root 338 May  4 12:10 HEAD
+drwxr-xr-x 4 root root  34 May  4 12:05 refs
+
+/home/ec2-user/git/EPAM/.git/logs/refs:
+drwxr-xr-x 4 root root 34 May  4 12:05 .
+drwxr-xr-x 3 root root 30 May  4 12:05 ..
+drwxr-xr-x 2 root root 20 May  4 12:05 heads
+drwxr-xr-x 3 root root 20 May  4 12:05 remotes
+
+/home/ec2-user/git/EPAM/.git/logs/refs/heads:
+drwxr-xr-x 2 root root  20 May  4 12:05 .
+drwxr-xr-x 4 root root  34 May  4 12:05 ..
+-rw-r--r-- 1 root root 338 May  4 12:10 master
+
+/home/ec2-user/git/EPAM/.git/logs/refs/remotes:
+drwxr-xr-x 3 root root 20 May  4 12:05 .
+drwxr-xr-x 4 root root 34 May  4 12:05 ..
+drwxr-xr-x 2 root root 32 May  4 12:12 origin
+
+/home/ec2-user/git/EPAM/.git/logs/refs/remotes/origin:
+drwxr-xr-x 2 root root  32 May  4 12:12 .
+drwxr-xr-x 3 root root  20 May  4 12:05 ..
+-rw-r--r-- 1 root root 184 May  4 12:05 HEAD
+-rw-r--r-- 1 root root 148 May  4 12:12 master
+
+/home/ec2-user/git/EPAM/.git/objects:
+drwxr-xr-x 55 root root 4096 May  4 12:10 .
+drwxr-xr-x  8 root root  185 May  4 12:11 ..
+drwxr-xr-x  2 root root   52 May  4 12:10 05
+drwxr-xr-x  2 root root   98 May  4 12:09 0f
+drwxr-xr-x  2 root root   52 May  4 12:05 11
+drwxr-xr-x  2 root root   52 May  4 12:05 13
+drwxr-xr-x  2 root root   52 May  4 12:05 19
+drwxr-xr-x  2 root root   52 May  4 12:05 20
+drwxr-xr-x  2 root root   52 May  4 12:05 22
+drwxr-xr-x  2 root root   52 May  4 12:05 2c
+drwxr-xr-x  2 root root   52 May  4 12:05 2f
+drwxr-xr-x  2 root root   52 May  4 12:05 30
+drwxr-xr-x  2 root root   98 May  4 12:05 31
+drwxr-xr-x  2 root root   52 May  4 12:09 3c
+drwxr-xr-x  2 root root   52 May  4 12:05 3e
+drwxr-xr-x  2 root root   52 May  4 12:05 3f
+drwxr-xr-x  2 root root   52 May  4 12:05 40
+drwxr-xr-x  2 root root   52 May  4 12:05 45
+drwxr-xr-x  2 root root   52 May  4 12:05 4b
+drwxr-xr-x  2 root root   98 May  4 12:05 4f
+drwxr-xr-x  2 root root   52 May  4 12:05 58
+drwxr-xr-x  2 root root   52 May  4 12:05 59
+drwxr-xr-x  2 root root   52 May  4 12:05 67
+drwxr-xr-x  2 root root   52 May  4 12:05 6b
+drwxr-xr-x  2 root root   98 May  4 12:08 6c
+drwxr-xr-x  2 root root   52 May  4 12:05 76
+drwxr-xr-x  2 root root   52 May  4 12:05 7a
+drwxr-xr-x  2 root root   52 May  4 12:05 7e
+drwxr-xr-x  2 root root   52 May  4 12:05 85
+drwxr-xr-x  2 root root   52 May  4 12:05 8b
+drwxr-xr-x  2 root root   52 May  4 12:05 8c
+drwxr-xr-x  2 root root   52 May  4 12:05 98
+drwxr-xr-x  2 root root   52 May  4 12:05 99
+drwxr-xr-x  2 root root   52 May  4 12:05 9c
+drwxr-xr-x  2 root root  144 May  4 12:05 9e
+drwxr-xr-x  2 root root   52 May  4 12:05 a7
+drwxr-xr-x  2 root root   52 May  4 12:05 ac
+drwxr-xr-x  2 root root   52 May  4 12:05 ad
+drwxr-xr-x  2 root root   52 May  4 12:05 af
+drwxr-xr-x  2 root root   52 May  4 12:05 b5
+drwxr-xr-x  2 root root   52 May  4 12:05 b7
+drwxr-xr-x  2 root root   52 May  4 12:05 ca
+drwxr-xr-x  2 root root   52 May  4 12:05 cf
+drwxr-xr-x  2 root root   52 May  4 12:05 d3
+drwxr-xr-x  2 root root   52 May  4 12:05 d4
+drwxr-xr-x  2 root root   52 May  4 12:05 d9
+drwxr-xr-x  2 root root   98 May  4 12:05 dd
+drwxr-xr-x  2 root root   52 May  4 12:05 e6
+drwxr-xr-x  2 root root   52 May  4 12:05 e9
+drwxr-xr-x  2 root root   52 May  4 12:05 ed
+drwxr-xr-x  2 root root   52 May  4 12:05 ee
+drwxr-xr-x  2 root root   52 May  4 12:05 f5
+drwxr-xr-x  2 root root   52 May  4 12:05 fd
+drwxr-xr-x  2 root root    6 May  4 12:05 info
+drwxr-xr-x  2 root root    6 May  4 12:05 pack
+
+/home/ec2-user/git/EPAM/.git/objects/05:
+drwxr-xr-x  2 root root   52 May  4 12:10 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  158 May  4 12:10 d7bf0cce41f2b84821a1b7f4a6cb784f3e1d1a
+
+/home/ec2-user/git/EPAM/.git/objects/0f:
+drwxr-xr-x  2 root root   98 May  4 12:09 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  402 May  4 12:09 15f1e169fcd82ec639a7cc80aa1fe7602ca57b
+-r--r--r--  1 root root  561 May  4 12:05 d36977acb184ab7441f848a5e79179ec7e0bed
+
+/home/ec2-user/git/EPAM/.git/objects/11:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  563 May  4 12:05 5f9707539d99588555bba26b5955a9f0071053
+
+/home/ec2-user/git/EPAM/.git/objects/13:
+drwxr-xr-x  2 root root      52 May  4 12:05 .
+drwxr-xr-x 55 root root    4096 May  4 12:10 ..
+-r--r--r--  1 root root 4430453 May  4 12:05 f66604b23bb98aa9f77d6739d8d6a7c0b3d009
+
+/home/ec2-user/git/EPAM/.git/objects/19:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  553 May  4 12:05 e0a9ccdec21816591d0227d5a3446f8716b8a6
+
+/home/ec2-user/git/EPAM/.git/objects/20:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  562 May  4 12:05 cc0cd5d66ac19a779f60137366963be3777225
+
+/home/ec2-user/git/EPAM/.git/objects/22:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root   54 May  4 12:05 aef2fa25cee6cd9a2c7f45e49cf07412e458af
+
+/home/ec2-user/git/EPAM/.git/objects/2c:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root   79 May  4 12:05 9f8d2523234dee5e2be258460d03e682dba61c
+
+/home/ec2-user/git/EPAM/.git/objects/2f:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root   39 May  4 12:05 7efbeab578c8042531ea7908ee8ffd7589fe46
+
+/home/ec2-user/git/EPAM/.git/objects/30:
+drwxr-xr-x  2 root root      52 May  4 12:05 .
+drwxr-xr-x 55 root root    4096 May  4 12:10 ..
+-r--r--r--  1 root root 2872372 May  4 12:05 a73b4b254113b6e03d93be06378fcd465294fe
+
+/home/ec2-user/git/EPAM/.git/objects/31:
+drwxr-xr-x  2 root root      98 May  4 12:05 .
+drwxr-xr-x 55 root root    4096 May  4 12:10 ..
+-r--r--r--  1 root root     558 May  4 12:05 7da3a51c7cd46d3e30a6886ad3fda3e10b1eb8
+-r--r--r--  1 root root 1813918 May  4 12:05 fd301cdd7f78d4e9429224ac6f8856d2e0f047
+
+/home/ec2-user/git/EPAM/.git/objects/3c:
+drwxr-xr-x  2 root root   52 May  4 12:09 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root   54 May  4 12:09 9a3a286cc48488311ff285d09cccf0d971163c
+
+/home/ec2-user/git/EPAM/.git/objects/3e:
+drwxr-xr-x  2 root root     52 May  4 12:05 .
+drwxr-xr-x 55 root root   4096 May  4 12:10 ..
+-r--r--r--  1 root root 936579 May  4 12:05 12c0804280ea2912a9af8eaf2cba2ef2cf30c9
+
+/home/ec2-user/git/EPAM/.git/objects/3f:
+drwxr-xr-x  2 root root     52 May  4 12:05 .
+drwxr-xr-x 55 root root   4096 May  4 12:10 ..
+-r--r--r--  1 root root 954129 May  4 12:05 e88cde7f0144ac8fa70f94cab6faeb04f7ef81
+
+/home/ec2-user/git/EPAM/.git/objects/40:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  163 May  4 12:05 81e7adab24147af184bab066b9e94903c78653
+
+/home/ec2-user/git/EPAM/.git/objects/45:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  322 May  4 12:05 d2c397471381990d7e352c478bb4f064807376
+
+/home/ec2-user/git/EPAM/.git/objects/4b:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  174 May  4 12:05 32b74c16a3b5b4209af62ef8818afad6c5df8f
+
+/home/ec2-user/git/EPAM/.git/objects/4f:
+drwxr-xr-x  2 root root   98 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  559 May  4 12:05 df5908f8b97bfcc25bbc2bdf00f11cbd57a555
+-r--r--r--  1 root root   51 May  4 12:05 fd13a10a3a698e9e650b0968a5e70deda71ea3
+
+/home/ec2-user/git/EPAM/.git/objects/58:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  348 May  4 12:05 9d00f4e553842ef652554cccca3634bc9e53f7
+
+/home/ec2-user/git/EPAM/.git/objects/59:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  256 May  4 12:05 15e0cdafd6f467fba331f9ef898b9d9ac5a2d4
+
+/home/ec2-user/git/EPAM/.git/objects/67:
+drwxr-xr-x  2 root root      52 May  4 12:05 .
+drwxr-xr-x 55 root root    4096 May  4 12:10 ..
+-r--r--r--  1 root root 1320215 May  4 12:05 ce3b32d96f313544ad065a46e4143cfb87afe9
+
+/home/ec2-user/git/EPAM/.git/objects/6b:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  636 May  4 12:05 a466fbc73c0c15374fa97dc93f5403d474987b
+
+/home/ec2-user/git/EPAM/.git/objects/6c:
+drwxr-xr-x  2 root root   98 May  4 12:08 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  289 May  4 12:08 48ba9c0e0a362f0c3bc746d8266ba2b638e4e4
+-r--r--r--  1 root root  204 May  4 12:05 fec5a4e83e6d92df43a75b4dc73d28d50122f3
+
+/home/ec2-user/git/EPAM/.git/objects/76:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  555 May  4 12:05 28a1456f72ca307d316cfa2d58e1df377be2ec
+
+/home/ec2-user/git/EPAM/.git/objects/7a:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  150 May  4 12:05 967fdfb2677acf82412fcbe855bec12171a6b7
+
+/home/ec2-user/git/EPAM/.git/objects/7e:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  244 May  4 12:05 6effe5f9398759898a2b6a9bd5c162e356c8a2
+
+/home/ec2-user/git/EPAM/.git/objects/85:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  553 May  4 12:05 ec3c56b1b219d46bdef716b77bce879083130d
+
+/home/ec2-user/git/EPAM/.git/objects/8b:
+drwxr-xr-x  2 root root     52 May  4 12:05 .
+drwxr-xr-x 55 root root   4096 May  4 12:10 ..
+-r--r--r--  1 root root 450922 May  4 12:05 f7b2919c40d9eb8d34c36446a444f77ccb9407
+
+/home/ec2-user/git/EPAM/.git/objects/8c:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  562 May  4 12:05 7dfa80ca84bff069fdc4f44d891a1aeb354f18
+
+/home/ec2-user/git/EPAM/.git/objects/98:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  176 May  4 12:05 07fefcbc326c6eac142902c7a063f94c63fc24
+
+/home/ec2-user/git/EPAM/.git/objects/99:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  296 May  4 12:05 ef2349e35d764f2f57014b618066b01531cc38
+
+/home/ec2-user/git/EPAM/.git/objects/9c:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  561 May  4 12:05 c5efa94e7690c89daa285a1cca2d3dcf2aa083
+
+/home/ec2-user/git/EPAM/.git/objects/9e:
+drwxr-xr-x  2 root root   144 May  4 12:05 .
+drwxr-xr-x 55 root root  4096 May  4 12:10 ..
+-r--r--r--  1 root root   119 May  4 12:05 50c59bf16e5e696e8ccfb96c5dd665a5b8a20a
+-r--r--r--  1 root root 51447 May  4 12:05 bf49b1e9289fa134b4dc301e0b6a1af67d2e52
+-r--r--r--  1 root root   296 May  4 12:05 ec123962f5cc97ea8e75d69c52fb23ea59596f
+
+/home/ec2-user/git/EPAM/.git/objects/a7:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  111 May  4 12:05 9a39c865c07efa97a561d896f4e462846bdbd8
+
+/home/ec2-user/git/EPAM/.git/objects/ac:
+drwxr-xr-x  2 root root     52 May  4 12:05 .
+drwxr-xr-x 55 root root   4096 May  4 12:10 ..
+-r--r--r--  1 root root 347901 May  4 12:05 dfe149e265a49b7fb9663e106fb5f4652ed055
+
+/home/ec2-user/git/EPAM/.git/objects/ad:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root   35 May  4 12:05 3bffef74b87487e5ae0c1365675d1afa4a9631
+
+/home/ec2-user/git/EPAM/.git/objects/af:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  561 May  4 12:05 4b740ddda80f76ebdc91b27d2d150ad8bb8c49
+
+/home/ec2-user/git/EPAM/.git/objects/b5:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  562 May  4 12:05 4a017079a34c0235049bb06530132bc10dfc3e
+
+/home/ec2-user/git/EPAM/.git/objects/b7:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root   93 May  4 12:05 ae707c3beb7ac5a884dbab9c7b390e6d796b90
+
+/home/ec2-user/git/EPAM/.git/objects/ca:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  230 May  4 12:05 1b35c107b9c7a61f3e2e2960ea649955bdddc8
+
+/home/ec2-user/git/EPAM/.git/objects/cf:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root   54 May  4 12:05 e0ed494c8608ebe0c51663a98204a3bc0db9fe
+
+/home/ec2-user/git/EPAM/.git/objects/d3:
+drwxr-xr-x  2 root root     52 May  4 12:05 .
+drwxr-xr-x 55 root root   4096 May  4 12:10 ..
+-r--r--r--  1 root root 252926 May  4 12:05 c9cf72e0bfaaae1729faa843b98db67b418369
+
+/home/ec2-user/git/EPAM/.git/objects/d4:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root   56 May  4 12:05 3582068d43c5b645c41409d6758d00f5c0d235
+
+/home/ec2-user/git/EPAM/.git/objects/d9:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  561 May  4 12:05 3e7677ff7541a1159f88128714e47c61a8020f
+
+/home/ec2-user/git/EPAM/.git/objects/dd:
+drwxr-xr-x  2 root root   98 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  554 May  4 12:05 35cda8613819482c206e2ebd83f8a716ce1948
+-r--r--r--  1 root root  375 May  4 12:05 b56e48bda96118f585039098bb582f1d044a96
+
+/home/ec2-user/git/EPAM/.git/objects/e6:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root   88 May  4 12:05 f2fbe5030f16d6224837be80860a01215a1244
+
+/home/ec2-user/git/EPAM/.git/objects/e9:
+drwxr-xr-x  2 root root      52 May  4 12:05 .
+drwxr-xr-x 55 root root    4096 May  4 12:10 ..
+-r--r--r--  1 root root 1570799 May  4 12:05 d3342b3f0b17328bea7b5401e6c896d68fbd2e
+
+/home/ec2-user/git/EPAM/.git/objects/ed:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  706 May  4 12:05 6106542ac313ec68046f227fd0691b7f3614f4
+
+/home/ec2-user/git/EPAM/.git/objects/ee:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  147 May  4 12:05 286e7401d076e9b209dec02f81e4e053c585b5
+
+/home/ec2-user/git/EPAM/.git/objects/f5:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  188 May  4 12:05 ab5675d66900ffbed7ed6e45fd306f725111bd
+
+/home/ec2-user/git/EPAM/.git/objects/fd:
+drwxr-xr-x  2 root root   52 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+-r--r--r--  1 root root  523 May  4 12:05 f08541dfcc49dedabed256ee1af7f7567a3ba9
+
+/home/ec2-user/git/EPAM/.git/objects/info:
+drwxr-xr-x  2 root root    6 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+
+/home/ec2-user/git/EPAM/.git/objects/pack:
+drwxr-xr-x  2 root root    6 May  4 12:05 .
+drwxr-xr-x 55 root root 4096 May  4 12:10 ..
+
+/home/ec2-user/git/EPAM/.git/refs:
+drwxr-xr-x 5 root root  46 May  4 12:05 .
+drwxr-xr-x 8 root root 185 May  4 12:11 ..
+drwxr-xr-x 2 root root  20 May  4 12:10 heads
+drwxr-xr-x 3 root root  20 May  4 12:05 remotes
+drwxr-xr-x 2 root root   6 May  4 12:05 tags
+
+/home/ec2-user/git/EPAM/.git/refs/heads:
+drwxr-xr-x 2 root root 20 May  4 12:10 .
+drwxr-xr-x 5 root root 46 May  4 12:05 ..
+-rw-r--r-- 1 root root 41 May  4 12:10 master
+
+/home/ec2-user/git/EPAM/.git/refs/remotes:
+drwxr-xr-x 3 root root 20 May  4 12:05 .
+drwxr-xr-x 5 root root 46 May  4 12:05 ..
+drwxr-xr-x 2 root root 32 May  4 12:12 origin
+
+/home/ec2-user/git/EPAM/.git/refs/remotes/origin:
+drwxr-xr-x 2 root root 32 May  4 12:12 .
+drwxr-xr-x 3 root root 20 May  4 12:05 ..
+-rw-r--r-- 1 root root 32 May  4 12:05 HEAD
+-rw-r--r-- 1 root root 41 May  4 12:12 master
+
+/home/ec2-user/git/EPAM/.git/refs/tags:
+drwxr-xr-x 2 root root  6 May  4 12:05 .
+drwxr-xr-x 5 root root 46 May  4 12:05 ..
+
+/home/ec2-user/git/EPAM/homework_2.1:
+drwxr-xr-x 2 root root    48 May  4 12:05 .
+drwxr-xr-x 6 root root   274 May  4 12:08 ..
+-rw-r--r-- 1 root root 62840 May  4 12:05 Homework 2.1 Tertyshnyi Bohdan.pdf
+
+/home/ec2-user/git/EPAM/homework_2.2:
+drwxr-xr-x 2 root root      25 May  4 12:05 .
+drwxr-xr-x 6 root root     274 May  4 12:08 ..
+-rw-r--r-- 1 root root 3272374 May  4 12:05 task2_2.pdf
+
+/home/ec2-user/git/EPAM/homework_4.8:
+drwxr-xr-x 2 root root    48 May  4 12:14 .
+drwxr-xr-x 6 root root   274 May  4 12:08 ..
+-rw-r--r-- 1 root root 20480 May  4 12:14 file_with_listing
+-rwxr-xr-x 1 root root   644 May  4 12:00 script.sh
+
+/home/ec2-user/git/homework_4.8:
+drwxr-xr-x 2 root root  23 May  4 12:03 .
+drwxr-xr-x 4 root root  38 May  4 12:05 ..
+-rwxr-xr-x 1 root root 644 May  4 12:00 script.sh
+
+/home/ec2-user/homework_4.8:
+drwxr-xr-x 2 root     root       23 May  4 12:03 .
+drwx------ 8 ec2-user ec2-user 4096 May  4 12:04 ..
+-rwxr-xr-x 1 root     root      644 May  4 12:00 script.sh
+
+/home/ec2-user/.local:
+drwx------ 3 ec2-user ec2-user   19 May  4 11:38 .
+drwx------ 8 ec2-user ec2-user 4096 May  4 12:04 ..
+drwx------ 3 ec2-user ec2-user   16 May  4 11:38 share
+
+/home/ec2-user/.local/share:
+drwx------ 3 ec2-user ec2-user 16 May  4 11:38 .
+drwx------ 3 ec2-user ec2-user 19 May  4 11:38 ..
+drwx------ 2 ec2-user ec2-user 21 May  4 11:38 mc
+
+/home/ec2-user/.local/share/mc:
+drwx------ 2 ec2-user ec2-user  21 May  4 11:38 .
+drwx------ 3 ec2-user ec2-user  16 May  4 11:38 ..
+-rw------- 1 ec2-user ec2-user 102 May  4 11:38 history
+
+/home/ec2-user/.ssh:
+drwx------ 2 ec2-user ec2-user   29 May  4 11:37 .
+drwx------ 8 ec2-user ec2-user 4096 May  4 12:04 ..
+-rw------- 1 ec2-user ec2-user  395 May  4 11:37 authorized_keys
